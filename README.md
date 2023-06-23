@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Emam</h1>
-<h3 align="center">Machine learning researcher and PhD. student in the university of Bonn</h3>
+<h3 align="center">Machine learning researcher and PhD. candidate in the University of Bonn</h3>
 
 <p align="left"> <a href="https://twitter.com/ahmedemam_de" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedemam_de?logo=twitter&style=for-the-badge" alt="ahmedemam_de" /></a> </p>
 
-- 🔭 I’m currently working on **explainable machine learning to understand what make wilderness wild**
+- 🔭 I’m currently working on **explainable machine learning to understand what makes wilderness wild**
 
 - 🌱 I’m currently learning **multimodal LLM**
 
