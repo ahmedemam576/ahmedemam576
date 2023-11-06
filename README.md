@@ -36,9 +36,11 @@
 
 - [![Tutorial 1: Explainable machine learning: Introduction](https://img.youtube.com/watch?v=R0e_7iFe1NM&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC&index=1.jpg)](https://www.youtube.com/watch?v=R0e_7iFe1NM&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC) - In this tutorial, I provide an introduction to explainable machine learning concepts.
 
-- [![Tutorial 2: visualize activations of convolutional layers in a neural network](https://www.youtube.com/watch?v=gNhADcwAurY&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC&index=2.jpg)](https://www.youtube.com/watch?v=gNhADcwAurY&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC&index=2) - Learn about the fundamentals of eXplainable Artificial Intelligence (XAI).
+- [![Tutorial 2: visualize activations of convolutional layers in a neural network](https://www.youtube.com/watch?v=gNhADcwAurY&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC&index=2.jpg)](https://www.youtube.com/watch?v=gNhADcwAurY&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC&index=2) - I'm explaining the concept of feature maps and how they can be used to visualise how your data is behaving.
 
-- [![Tutorial 3: Python Data Visualization with Seaborn](https://img.youtube.com/vi/your_video_id_3/0.jpg)](https://www.youtube.com/watch?v=your_video_id_3) - Explore data visualization using Seaborn in Python.
+- [![Tutorial 3: Saliency Maps]((https://www.youtube.com/watch?v=eudf1wQmXnc&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC&index=3)) - we'll be using Saliency Maps to explore the emotional content of a video. We'll be using the Saliency Map to look for interesting topics, people and emotions in the video, and to find patterns in the data.
+- [![Tutorial 4: Occlusion sensitivity]((https://www.youtube.com/watch?v=eudf1wQmXnc&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC&index=3](https://www.youtube.com/watch?v=WoFfQuiZNI0&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC&index=4)) -The video shows "Which Pixels in an image influence the neural network's decision" discusses how to identify the pixels in an image that impact the decision-making process of an artificial neural network. The video explains in detail how computer vision and neural network techniques can be used to determine the important pixels in an image that the smart system focuses on while making decisions.
+
 
 <!-- You can add more videos and descriptions as needed -->
 
