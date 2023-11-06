@@ -30,3 +30,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedemam576&show_icons=true&locale=en&layout=compact" alt="ahmedemam576" /></p>
 
+### My YouTube Tutorial Videos
+
+- [Tutorial 1: Introduction to Machine Learning](https://www.youtube.com/watch?v=your_video_id_1) - In this tutorial, I provide an introduction to machine learning concepts.
+
+- [Tutorial 2: Explaining the Basics of XAI](https://www.youtube.com/watch?v=your_video_id_2) - Learn about the fundamentals of eXplainable Artificial Intelligence (XAI).
+
+- [Tutorial 3: Python Data Visualization with Seaborn](https://www.youtube.com/watch?v=your_video_id_3) - Explore data visualization using Seaborn in Python.
