@@ -32,8 +32,13 @@
 
 ### My YouTube Tutorial Videos
 
-- [Tutorial 1: Introduction to Machine Learning](https://www.youtube.com/watch?v=your_video_id_1) - In this tutorial, I provide an introduction to machine learning concepts.
+### My YouTube Tutorial Videos
 
-- [Tutorial 2: Explaining the Basics of XAI](https://www.youtube.com/watch?v=your_video_id_2) - Learn about the fundamentals of eXplainable Artificial Intelligence (XAI).
+- [![Tutorial 1: Introduction to Machine Learning](https://img.youtube.com/vi/your_video_id_1/0.jpg)](https://www.youtube.com/watch?v=your_video_id_1) - In this tutorial, I provide an introduction to machine learning concepts.
 
-- [Tutorial 3: Python Data Visualization with Seaborn](https://www.youtube.com/watch?v=your_video_id_3) - Explore data visualization using Seaborn in Python.
+- [![Tutorial 2: Explaining the Basics of XAI](https://img.youtube.com/vi/your_video_id_2/0.jpg)](https://www.youtube.com/watch?v=your_video_id_2) - Learn about the fundamentals of eXplainable Artificial Intelligence (XAI).
+
+- [![Tutorial 3: Python Data Visualization with Seaborn](https://img.youtube.com/vi/your_video_id_3/0.jpg)](https://www.youtube.com/watch?v=your_video_id_3) - Explore data visualization using Seaborn in Python.
+
+<!-- You can add more videos and descriptions as needed -->
+
