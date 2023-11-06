@@ -34,7 +34,7 @@
 
 ### My YouTube Tutorial Videos
 
-- [![Tutorial 1: Introduction to Machine Learning](https://img.youtube.com/vi/your_video_id_1/0.jpg)](https://www.youtube.com/watch?v=your_video_id_1) - In this tutorial, I provide an introduction to machine learning concepts.
+- [![Tutorial 1: Introduction to Machine Learning](https://img.youtube.com/watch?v=R0e_7iFe1NM&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC&index=1.jpg)](https://www.youtube.com/watch?v=R0e_7iFe1NM&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC) - In this tutorial, I provide an introduction to machine learning concepts.
 
 - [![Tutorial 2: Explaining the Basics of XAI](https://img.youtube.com/vi/your_video_id_2/0.jpg)](https://www.youtube.com/watch?v=your_video_id_2) - Learn about the fundamentals of eXplainable Artificial Intelligence (XAI).
 
