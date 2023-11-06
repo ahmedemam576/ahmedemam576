@@ -32,11 +32,11 @@
 
 ### My YouTube Tutorial Videos
 
-### My YouTube Tutorial Videos
 
-- [![Tutorial 1: Explainable machine learning: Introduction](https://img.youtube.com/watch?v=R0e_7iFe1NM&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC&index=1.jpg)](https://www.youtube.com/watch?v=R0e_7iFe1NM&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC) - In this tutorial, I provide an introduction to machine learning concepts.
 
-- [![Tutorial 2: Explaining the Basics of XAI](https://img.youtube.com/vi/your_video_id_2/0.jpg)](https://www.youtube.com/watch?v=your_video_id_2) - Learn about the fundamentals of eXplainable Artificial Intelligence (XAI).
+- [![Tutorial 1: Explainable machine learning: Introduction](https://img.youtube.com/watch?v=R0e_7iFe1NM&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC&index=1.jpg)](https://www.youtube.com/watch?v=R0e_7iFe1NM&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC) - In this tutorial, I provide an introduction to explainable machine learning concepts.
+
+- [![Tutorial 2: visualize activations of convolutional layers in a neural network](https://www.youtube.com/watch?v=gNhADcwAurY&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC&index=2.jpg)](https://www.youtube.com/watch?v=gNhADcwAurY&list=PL0WmXPhamMFPdqmhr1F5-Vl1KfqZSUtFC&index=2) - Learn about the fundamentals of eXplainable Artificial Intelligence (XAI).
 
 - [![Tutorial 3: Python Data Visualization with Seaborn](https://img.youtube.com/vi/your_video_id_3/0.jpg)](https://www.youtube.com/watch?v=your_video_id_3) - Explore data visualization using Seaborn in Python.
 
