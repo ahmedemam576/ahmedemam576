@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/ahmedemam_de" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedemam_de?logo=twitter&style=for-the-badge" alt="ahmedemam_de" /></a> </p>
 
 
-- 👯 I’m looking to collaborate on **The MapInWild Project**
+
 
 - 👨‍💻 All of my videos are available at [https://www.youtube.com/channel/UChvzP8CgF6mWDCqgcXY9KJA](https://www.youtube.com/channel/UChvzP8CgF6mWDCqgcXY9KJA)
 
