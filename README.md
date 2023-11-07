@@ -16,7 +16,7 @@
 - 💬 Ask me about **XAI, and PINNs**
 
 - 📫 How to reach me **aemam@uni-bonn.de**
-- ### Introduction to XAI Tutorials on my channel
+### Introduction to XAI Tutorials on my channel
 
 
 
