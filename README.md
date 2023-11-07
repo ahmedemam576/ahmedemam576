@@ -3,9 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedemam_de" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedemam_de?logo=twitter&style=for-the-badge" alt="ahmedemam_de" /></a> </p>
 
-- 🔭 I’m currently working on **explainable machine learning to understand what makes wilderness wild**
-
-- 🌱 I’m currently learning **multimodal LLM**
 
 - 👯 I’m looking to collaborate on **The MapInWild Project**
 
