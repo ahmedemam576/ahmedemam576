@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **The MapInWild Project**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UChvzP8CgF6mWDCqgcXY9KJA](https://www.youtube.com/channel/UChvzP8CgF6mWDCqgcXY9KJA)
+- 👨‍💻 All of my videos are available at [https://www.youtube.com/channel/UChvzP8CgF6mWDCqgcXY9KJA](https://www.youtube.com/channel/UChvzP8CgF6mWDCqgcXY9KJA)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ahmed-emam-48b966a4/](https://www.linkedin.com/in/ahmed-emam-48b966a4/)
 
