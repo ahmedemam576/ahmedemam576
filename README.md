@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **XAI, and PINNs**
 
-- 📫 How to reach me **aemam@uni-bonn.de**
+- 📫 How to reach me **ahmedemam576@gmail.com**
 ### Introduction to XAI Tutorials on my channel
 
 
