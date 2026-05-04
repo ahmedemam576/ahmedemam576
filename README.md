@@ -9,7 +9,7 @@
 ## About Me
 
 - 👨‍💻 All of my videos are available at [YouTube Channel](https://www.youtube.com/channel/UChvzP8CgF6mWDCqgcXY9KJA)
-- 📝 I regularly write articles on [LinkedIn]([https://www.linkedin.com/in/ahmed-emam-48b966a4/](https://www.linkedin.com/in/dr-eng-ahmed-emam-🇩🇪-🇸🇦-48b966a4/))
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/dr-eng-ahmed-emam-🇩🇪-🇸🇦-48b966a4/)
 - 💬 Ask me about **XAI and PINNs**
 - 📫 How to reach me: **ahmedemam576@gmail.com**
 
