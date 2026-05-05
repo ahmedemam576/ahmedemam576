@@ -1,6 +1,7 @@
-# Hi 👋, I'm Ahmed Emam
+# Hi 👋, I'm Dr. Ahmed Emam
 
-### Machine learning researcher and PhD. candidate at the University of Bonn
+### I am working as a researcher in the field of remote sensing and machine learning
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahmedemam_de?logo=twitter&style=for-the-badge)](https://twitter.com/ahmedemam_de)
 
