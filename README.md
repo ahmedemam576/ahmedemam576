@@ -53,4 +53,3 @@ The video shows "Which Pixels in an image influence the neural network's decisio
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ahmedemam576&show_icons=true&locale=en&layout=compact)
